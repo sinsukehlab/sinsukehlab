@@ -2,7 +2,7 @@
 - 👋 Hi, I’m Shinsuke (@sinsukehlab).
 - 👀 I’m interested in biochemistry and biophysics.
 - 🌱 I’m currently learning structural biology.
-- 💞️ I collaborate on [GitHub Skills](https://skills.github.com/).
+- 💞️ I've been contributing to [GitHub Skills](https://skills.github.com/).
 - 📫 How to reach me: CRISPR-Cas@chemist.com (rarely checked)
 
 # GitHub Stats
